@@ -1,11 +1,11 @@
 {
-  "name": "duxxie-images",
+  "name": "duxxie-creative-commons",
   "version": "1.0.0",
-  "description": "Duxxie images",
+  "description": "Duxxie creative commons content",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Duxxie/duxxie-images.git"
+    "url": "git+https://github.com/Duxxie/duxxie-creative-commons.git"
   },
-  "author": "duxxie",
+  "author": "duxxie.nl",
   "license": "CC BY-ND 4.0"
 }
