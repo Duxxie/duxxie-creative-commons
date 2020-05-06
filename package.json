@@ -1,0 +1,11 @@
+{
+  "name": "duxxie-images",
+  "version": "1.0.0",
+  "description": "Duxxie images",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Duxxie/duxxie-images.git"
+  },
+  "author": "duxxie",
+  "license": "CC BY-ND 4.0"
+}
