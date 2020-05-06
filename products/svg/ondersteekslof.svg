@@ -1,19 +1,12 @@
-<?xml version="1.0" encoding="utf-8" ?>
 <!--
 	https://github.com/Duxxie/duxxie-images
 	This work is licenced by https://creativecommons.org/licenses/by-sa/4.0/
 -->
-<svg version="1.1" id="ondersteekslof-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1000px" height="1000px" viewBox="0 0 1000 1000" style="enable-background:new 0 0 1000 1000;" xml:space="preserve">
-	<style type="text/css">
-	#ondersteekslof-svg .st0{fill:none;stroke:currentColor;stroke-miterlimit:10;}
-</style>
-	<g id="Laag_2">
-		<path class="st0" d="M226.1,414.7c0,0,147.5-150.1,257.8-175.4s194-26.6,281.7,55.8s61.1,143.5,57.1,167.4s-37.2,91.7-118.3,128.9
-		S463.9,707,353.6,733.6s-174.1,38.5-217.9-27.9S81.2,586.1,95.9,559.6S206.1,430.7,226.1,414.7z" />
-		<path class="st0" d="M353.6,328.4c0,0,107.9-78.1,194-85c33.2-2.7,98.3-22.6,183.4,47.8s61.2,118.4,55.8,142.2
-		c-6.6,29.2-28.6,66.9-101,111.6c-73.1,45.1-122.2,65-122.2,65s-138.2-10.6-190-94.3S337.7,349.6,353.6,328.4z" />
-		<path class="st0" d="M341.7,408.1c0,0,119.6-66.4,186-70.4c62.3-3.7,199.3-4,225.9,154.1" />
-		<path class="st0" d="M760.1,290.3l152.9-63c0,0,14.1,5,18.1,11.6s-0.6,18.8-3.5,25.6c-3.1,7.3-132.9,59.8-132.9,59.8" />
-		<line class="st0" x1="777" y1="306" x2="930.5" y2="239.6" />
-	</g>
+<svg version="1.1" id="ondersteekslof-svg" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="1000px" height="1000px" viewBox="0 0 1000 1000" xml:space="preserve">
+  <style>
+    #ondersteekslof-svg .st0{fill:none;stroke:currentColor;stroke-miterlimit:10;}
+  </style>
+  <path class="st0" d="M226.1,414.7c0,0,147.5-150.1,257.8-175.4s194-26.6,281.7,55.8s61.1,143.5,57.1,167.4s-37.2,91.7-118.3,128.9 S463.9,707,353.6,733.6s-174.1,38.5-217.9-27.9S81.2,586.1,95.9,559.6S206.1,430.7,226.1,414.7z"/>
+  <path class="st0" d="M353.6,328.4c0,0,107.9-78.1,194-85c33.2-2.7,98.3-22.6,183.4,47.8s61.2,118.4,55.8,142.2 c-6.6,29.2-28.6,66.9-101,111.6c-73.1,45.1-122.2,65-122.2,65s-138.2-10.6-190-94.3S337.7,349.6,353.6,328.4z"/>
+  <path class="st0" d="M341.7 408.1c0 0 119.6-66.4 186-70.4 62.3-3.7 199.3-4 225.9 154.1M760.1 290.3l152.9-63c0 0 14.1 5 18.1 11.6s-.6 18.8-3.5 25.6c-3.1 7.3-132.9 59.8-132.9 59.8M777 306L930.5 239.6"/>
 </svg>

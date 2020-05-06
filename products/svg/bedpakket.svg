@@ -1,94 +1,22 @@
-<?xml version="1.0" encoding="utf-8" ?>
 <!--
 	https://github.com/Duxxie/duxxie-images
 	This work is licenced by https://creativecommons.org/licenses/by-sa/4.0/
 -->
-<svg version="1.1" id="bedpakket-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1000px" height="1000px" viewBox="0 0 1000 1000" style="enable-background:new 0 0 1000 1000;" xml:space="preserve">
-	<style type="text/css">
-	#bedpakket-svg .st0{display:none;}
-	#bedpakket-svg .st1{display:inline;}
-	#bedpakket-svg .st2{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	#bedpakket-svg .st3{fill:#FFFFFF;stroke:none;}
-	#bedpakket-svg .st4{fill:none;}
-	#bedpakket-svg .st5{fill:#FFFFFF;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	#bedpakket-svg .st6{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	#bedpakket-svg .st7{display:inline;fill:#E4E4E4;}
-	#bedpakket-svg .st8{display:inline;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	#bedpakket-svg .st9{display:inline;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	#bedpakket-svg .st10{fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	#bedpakket-svg .st11{fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	#bedpakket-svg .st12{fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	#bedpakket-svg .st13{display:inline;fill:none;stroke:currentColor;stroke-width:2;stroke-miterlimit:10;}
-	#bedpakket-svg .st14{display:inline;fill:#FFFFFF;stroke:none;}
-	#bedpakket-svg .st15{display:inline;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	#bedpakket-svg .st16{fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;}
-	#bedpakket-svg .st17{fill:#22B0C0;}
-	#bedpakket-svg .st18{display:inline;fill:none;stroke:currentColor;stroke-width:2;stroke-miterlimit:10;}
-	#bedpakket-svg .st19{fill:#FFFFFF;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	#bedpakket-svg .st20{display:inline;fill:#FFFFFF;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	#bedpakket-svg .st21{fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	#bedpakket-svg .st22{fill:none;stroke:currentColor;stroke-width:0.975;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	#bedpakket-svg .st23{fill:none;stroke:currentColor;stroke-width:0.975;stroke-miterlimit:10;}
-	#bedpakket-svg .st24{display:inline;fill:none;stroke:currentColor;stroke-width:0.975;stroke-miterlimit:10;}
-	#bedpakket-svg .st25{display:inline;fill:none;stroke:currentColor;stroke-width:0.975;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	#bedpakket-svg .st26{fill:none;stroke:currentColor;stroke-miterlimit:10;}
-</style>
-	<g id="Laag_2">
-		<path class="st6" d="M21,734.3c3.9,0,236.5-53.4,242.4-53.4c5.8,0,589.6,121.7,589.6,121.7L650.1,913.3L21,734.3z" />
-		<polyline class="st6" points="852.9,802.6 855.9,836.2 650.1,954 20,763.1 20,734.3 	" />
-		<polyline class="st6" points="855.9,836.2 851,862.9 647.2,984.6 21.9,782.9 20.1,762.3 	" />
-		<g>
-			<path class="st26" d="M455.9,62c-24.7,3.5-176.1,55.8-176.1,55.8l-2.7,168.6" />
-			<path class="st26" d="M289.2,285.6l5.4-157.4c0.5,0,135.9-44,163.6-53.2" />
-			<path class="st26" d="M471.9,57.7c0,0-0.8-1.5-2.7-0.5c-1.8,1-3.2,12.9-2,15.7c1.2,2.9,4.8,3.4,5.3-1" />
-			<path class="st26" d="M470.1,75.5c-1.1,0.9-1.4,2.6-1.4,2.6v65.9c-0.1,0.6,1.8-0.4,3.9,1.8c2.4,2.6,0.8,15.9,0.8,15.9
-			c8.8,8,25,32.9,26.2,34.7s7.9,11.5,5.6,16.9c-2.1,5-4.8,6.7-15.2,6.1s-48.7-1.9-55.7-1.9s-9-2.8-10.3-7.4
-			c-1.7-6.2,5.5-16.2,5.5-16.2c8.4-16.4,23.8-31.3,23.8-31.3s-0.4-5.7-0.6-10c-0.2-4.3,1.8-7.6,3.3-8c1.5-0.4,3.7-0.2,3.7-0.2
-			s0-60.5,0-64.6s-1.5-5.3-1.5-5.3c-7.4-8.5-0.6-14.8-0.6-14.8l11.7-2.5" />
-			<path class="st26" d="M451.4,171.6c-0.9,0.3-12.8,16.7-18.7,27.1c-5.9,10.4-0.5,11.9-0.5,11.9s53.8,2.1,62.2,2.1
-			c8.4,0,2.6-11.3,2.6-11.3c-13.7-20.4-20.5-30.6-21.1-30.2C459.5,180.3,452.9,171.2,451.4,171.6z" />
-			<path class="st26" d="M467.8,73.2c0,0,28.7-6.4,28-6.9c-6.7-4.5-2.8-15.4-2.8-15.4l-23.6,7.3" />
-			<path class="st26" d="M492.9,50.7c7.7,2.9,4.5,15.6,3.5,15.6" />
-			<g id="Laag_2_4_">
-				<line class="st6" x1="766.7" y1="579.8" x2="786.8" y2="566.1" />
-				<polyline class="st6" points="818.3,569.1 734.1,627.6 716.8,626.6 715.8,613.2 738.2,598.3 			" />
-				<line class="st6" x1="413.9" y1="551.9" x2="450.1" y2="534.6" />
-				<polyline class="st6" points="409.9,530.8 328.5,571.4 328.5,583.3 345,585.4 382.7,568.2 			" />
-				<path class="st6" d="M854.7,572.4c-3.9,7-14.2,10.5-22.1,8.5c-6.2-2-9.3-6.6-10-11.5" />
-				<path class="st6" d="M744.9,635.9c2.6,0,14.2-2.5,17.5,9.2c2,7.2,0.5,15.2-2.7,20.2c-3.2,5-8.7,7.4-14.3,8.6
-				c-5.6,1.2-14.7-0.3-19.2-4.7c-4.2-4.2-7.9-14.6-1.3-23.9" />
-				<path class="st6" d="M743.9,620.9c0.5,1.4,0.2,21,0.2,21s3.8,1.9,6.2,4.3c2.5,2.3,3.8,7.1,1.4,11.4s-5.2,7.7-11.4,6.6
-				c-10-1.4-5.8-13.4-5.8-13.4l-11-7.8v-15.7" />
-				<path class="st6" d="M382.2,568.2L738,598.3" />
-				<g>
-					<path class="st6" d="M361.3,593.4c2.6,0,14.2-2.5,17.5,9.2c2,7.2,0.5,15.2-2.7,20.2c-3.2,5-8.7,7.4-14.3,8.6
-					c-5.6,1.2-14.7-0.3-19.2-4.7c-4.2-4.2-7.9-14.6-1.3-23.9" />
-					<path class="st6" d="M360.4,578.3c0.5,1.4,0.2,21,0.2,21s3.8,1.9,6.2,4.3c2.5,2.3,3.8,7.1,1.4,11.4c-2.3,4.3-5.2,7.7-11.4,6.6
-					c-10-1.4-5.8-13.4-5.8-13.4l-11-7.8v-15.8" />
-				</g>
-				<line class="st6" x1="766.4" y1="579.9" x2="413.9" y2="552.1" />
-				<path class="st6" d="M477.5,537c-3.1,4.1-10.7,7.7-21.9,5.9c-6.1-1.9-7.8-4.2-8.8-6.9" />
-			</g>
-			<path class="st6" d="M230.1,292.3l223.4,157.6c0,0,199.4-45.9,205.2-44.9c5.8,0.9,200.3,73.3,200.3,73.3l21.2-10.7" />
-			<path class="st6" d="M880.8,383.5c0,0-105.9-41.8-111.8-41.8s-184.4,43.8-191.1,44.8c-6.7,0.9-156.2-113.1-163.9-113.1
-			c-7.8,0-184,18.8-184,18.8" />
-			<path class="st6" d="M315.5,441.7c0,0,3.3-1.1,8.7,1.1c5.4,2.1,4.3,10.8,4.3,10.8l2.1,47c0,0-7,4.3-9.2,4.9
-			c-2.1,0.5-13.5-2.1-13.5-2.1l-4.3-57.2L315.5,441.7z" />
-			<polyline class="st6" points="242.3,301.4 201,305.5 181.2,301.4 		" />
-			<polyline class="st6" points="236.3,296.7 180.9,300.9 180.9,510.2 200.8,512.1 200.8,305.8 		" />
-			<line class="st6" x1="201" y1="441.1" x2="303.1" y2="446.1" />
-			<line class="st6" x1="328.5" y1="447.9" x2="880.3" y2="487" />
-			<line class="st6" x1="201.3" y1="479.5" x2="306.4" y2="487.8" />
-			<line class="st6" x1="880.3" y1="574.8" x2="201.3" y2="511" />
-			<line class="st6" x1="330.4" y1="489.7" x2="880.3" y2="529.5" />
-			<path class="st6" d="M960.9,289.6l-80.7,32.7l1.5,251.3" />
-			<path class="st6" d="M983.7,291.4l-85,33.7l-1.2,249.6c0,0,84.5-75.5,84.5-78.4C982.1,493.2,983.7,291.4,983.7,291.4z" />
-			<line class="st6" x1="356.5" y1="449.9" x2="426" y2="433.6" />
-			<path class="st6" d="M319.3,506.5l2.7,21c0,0,8.3,34.5,14.2,38.8" />
-			<line class="st6" x1="881.7" y1="575.1" x2="897.5" y2="575.1" />
-			<path class="st6" d="M881.3,323.3c0,1.7,17.4,1,17.4,1" />
-			<line class="st6" x1="983.7" y1="291.4" x2="959.9" y2="290.6" />
-			<line class="st6" x1="556.3" y1="426.5" x2="758.9" y2="441.2" />
-		</g>
-	</g>
+<svg version="1.1" id="bedpakket-svg" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 1000 1000" xml:space="preserve">
+  <style>
+    #bedpakket-svg .st0{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;} #bedpakket-svg .st1{fill:none;stroke:currentColor;stroke-miterlimit:10;}
+  </style>
+  <path class="st0" d="M21,734.3c3.9,0,236.5-53.4,242.4-53.4c5.8,0,589.6,121.7,589.6,121.7L650.1,913.3L21,734.3z"/>
+  <path class="st0" d="M852.9,802.6l3,33.6L650.1,954L20,763.1v-28.8"/>
+  <path class="st0" d="M855.9,836.2l-4.9,26.7L647.2,984.6L21.9,782.9l-1.8-20.6"/>
+  <path class="st1" d="M455.9,62c-24.7,3.5-176.1,55.8-176.1,55.8l-2.7,168.6"/>
+  <path class="st1" d="M289.2,285.6l5.4-157.4c0.5,0,135.9-44,163.6-53.2 M471.9,57.7c0,0-0.8-1.5-2.7-0.5c-1.8,1-3.2,12.9-2,15.7 c1.2,2.9,4.8,3.4,5.3-1"/>
+  <path class="st1" d="M470.1,75.5c-1.1,0.9-1.4,2.6-1.4,2.6V144c-0.1,0.6,1.8-0.4,3.9,1.8c2.4,2.6,0.8,15.9,0.8,15.9 c8.8,8,25,32.9,26.2,34.7s7.9,11.5,5.6,16.9c-2.1,5-4.8,6.7-15.2,6.1s-48.7-1.9-55.7-1.9s-9-2.8-10.3-7.4 c-1.7-6.2,5.5-16.2,5.5-16.2c8.4-16.4,23.8-31.3,23.8-31.3s-0.4-5.7-0.6-10s1.8-7.6,3.3-8s3.7-0.2,3.7-0.2s0-60.5,0-64.6 s-1.5-5.3-1.5-5.3c-7.4-8.5-0.6-14.8-0.6-14.8l11.7-2.5"/>
+  <path class="st1" d="M451.4,171.6c-0.9,0.3-12.8,16.7-18.7,27.1c-5.9,10.4-0.5,11.9-0.5,11.9s53.8,2.1,62.2,2.1 c8.4,0,2.6-11.3,2.6-11.3c-13.7-20.4-20.5-30.6-21.1-30.2C459.5,180.3,452.9,171.2,451.4,171.6z M467.8,73.2c0,0,28.7-6.4,28-6.9 c-6.7-4.5-2.8-15.4-2.8-15.4l-23.6,7.3 M492.9,50.7c7.7,2.9,4.5,15.6,3.5,15.6"/>
+  <path class="st0" d="M766.7,579.8l20.1-13.7 M818.3,569.1l-84.2,58.5l-17.3-1l-1-13.4l22.4-14.9 M413.9,551.9l36.2-17.3 M409.9,530.8l-81.4,40.6v11.9l16.5,2.1l37.7-17.2 M854.7,572.4c-3.9,7-14.2,10.5-22.1,8.5c-6.2-2-9.3-6.6-10-11.5 M744.9,635.9 c2.6,0,14.2-2.5,17.5,9.2c2,7.2,0.5,15.2-2.7,20.2s-8.7,7.4-14.3,8.6c-5.6,1.2-14.7-0.3-19.2-4.7c-4.2-4.2-7.9-14.6-1.3-23.9"/>
+  <path class="st0" d="M743.9,620.9c0.5,1.4,0.2,21,0.2,21s3.8,1.9,6.2,4.3c2.5,2.3,3.8,7.1,1.4,11.4s-5.2,7.7-11.4,6.6 c-10-1.4-5.8-13.4-5.8-13.4l-11-7.8v-15.7 M382.2,568.2L738,598.3 M361.3,593.4c2.6,0,14.2-2.5,17.5,9.2c2,7.2,0.5,15.2-2.7,20.2 s-8.7,7.4-14.3,8.6c-5.6,1.2-14.7-0.3-19.2-4.7c-4.2-4.2-7.9-14.6-1.3-23.9"/>
+  <path class="st0" d="M360.4 578.3c.5 1.4.2 21 .2 21s3.8 1.9 6.2 4.3c2.5 2.3 3.8 7.1 1.4 11.4-2.3 4.3-5.2 7.7-11.4 6.6-10-1.4-5.8-13.4-5.8-13.4l-11-7.8v-15.8M766.4 579.9l-352.5-27.8M477.5 537c-3.1 4.1-10.7 7.7-21.9 5.9-6.1-1.9-7.8-4.2-8.8-6.9M230.1 292.3l223.4 157.6c0 0 199.4-45.9 205.2-44.9 5.8.9 200.3 73.3 200.3 73.3l21.2-10.7"/>
+  <path class="st0" d="M880.8,383.5c0,0-105.9-41.8-111.8-41.8s-184.4,43.8-191.1,44.8c-6.7,0.9-156.2-113.1-163.9-113.1 c-7.8,0-184,18.8-184,18.8 M315.5,441.7c0,0,3.3-1.1,8.7,1.1c5.4,2.1,4.3,10.8,4.3,10.8l2.1,47c0,0-7,4.3-9.2,4.9 c-2.1,0.5-13.5-2.1-13.5-2.1l-4.3-57.2L315.5,441.7z M242.3,301.4l-41.3,4.1l-19.8-4.1"/>
+  <path class="st0" d="M236.3,296.7l-55.4,4.2v209.3l19.9,1.9V305.8 M201,441.1l102.1,5 M328.5,447.9L880.3,487 M201.3,479.5 l105.1,8.3 M880.3,574.8l-679-63.8 M330.4,489.7l549.9,39.8 M960.9,289.6l-80.7,32.7l1.5,251.3"/>
+  <path class="st0" d="M983.7,291.4l-85,33.7l-1.2,249.6c0,0,84.5-75.5,84.5-78.4C982.1,493.2,983.7,291.4,983.7,291.4z M356.5,449.9 l69.5-16.3 M319.3,506.5l2.7,21c0,0,8.3,34.5,14.2,38.8 M881.7,575.1h15.8 M881.3,323.3c0,1.7,17.4,1,17.4,1 M983.7,291.4 l-23.8-0.8 M556.3,426.5l202.6,14.7"/>
 </svg>
