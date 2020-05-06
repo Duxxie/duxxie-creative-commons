@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--
+	https://github.com/Duxxie/duxxie-images
+	This work is licenced by https://creativecommons.org/licenses/by-sa/4.0/
+-->
+<svg version="1.1" id="matras-statisch-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1000px" height="1000px" viewBox="0 0 1000 1000" style="enable-background:new 0 0 1000 1000;" xml:space="preserve">
+	<style type="text/css">
+	#matras-statisch-svg .st0{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+	<path class="st0" d="M6.2,410.2c4.6,0,280.1-63.3,287.1-63.3c6.9,0,698.3,144.1,698.3,144.1L751.3,622.2L6.2,410.2z" />
+	<polyline class="st0" points="991.5,491 995,530.8 751.3,670.3 5,444.2 5,410.2 " />
+	<polyline class="st0" points="995,530.8 989.2,562.5 747.8,706.6 7.3,467.7 5.1,443.3 " />
+</svg>
