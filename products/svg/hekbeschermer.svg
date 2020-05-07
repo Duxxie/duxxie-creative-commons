@@ -1,24 +1,24 @@
 <!--
-	https://github.com/Duxxie/duxxie-images
-	This work is licenced by https://creativecommons.org/licenses/by-sa/4.0/
+  https://github.com/Duxxie/duxxie-creative-commons
+  This work is licenced by https://creativecommons.org/licenses/by-sa/4.0/
 -->
 <svg version="1.1" id="hekbeschermer-svg" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 1000 1000" xml:space="preserve">
   <style>
-		#hekbeschermer-svg .st0{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+    #hekbeschermer-svg .st0{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
     #hekbeschermer-svg .st1{display:none;}
     #hekbeschermer-svg .st2{display:inline;}
-		#hekbeschermer-svg .st3{fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-		#hekbeschermer-svg .st4{display:inline;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-		#hekbeschermer-svg .st5{display:inline;fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-		#hekbeschermer-svg .st6{display:inline;fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-		#hekbeschermer-svg .st7{fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;}
-		#hekbeschermer-svg .st8{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-		#hekbeschermer-svg .st9{display:inline;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:9.9998;}
-		#hekbeschermer-svg .st10{fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-		#hekbeschermer-svg .st11{display:inline;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-		#hekbeschermer-svg .st12{fill:none;stroke:currentColor;stroke-width:0.975;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-		#hekbeschermer-svg .st13{display:inline;fill:none;stroke:currentColor;stroke-width:0.975;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-		#hekbeschermer-svg .st14{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+    #hekbeschermer-svg .st3{fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+    #hekbeschermer-svg .st4{display:inline;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+    #hekbeschermer-svg .st5{display:inline;fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+    #hekbeschermer-svg .st6{display:inline;fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+    #hekbeschermer-svg .st7{fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;}
+    #hekbeschermer-svg .st8{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+    #hekbeschermer-svg .st9{display:inline;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:9.9998;}
+    #hekbeschermer-svg .st10{fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+    #hekbeschermer-svg .st11{display:inline;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+    #hekbeschermer-svg .st12{fill:none;stroke:currentColor;stroke-width:0.975;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+    #hekbeschermer-svg .st13{display:inline;fill:none;stroke:currentColor;stroke-width:0.975;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+    #hekbeschermer-svg .st14{fill:none;stroke:currentColor;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
   </style>
   <g>
     <g>
